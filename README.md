@@ -17,12 +17,25 @@ This repository contains complete implementation of the **Stack** data structure
 ## 📂 Project Structure
 stack-dsa-cpp/
 │
+├── README.md
+│
 ├── implementation/
-│ └── stack_array.cpp
+│   ├── stack_array.cpp
+│   ├── stack_linkedlist.cpp              (coming soon)
+│   ├── min_stack_two_stack.cpp          (coming soon)
+│   ├── min_stack_vector_pair.cpp        (coming soon)
+│   └── min_stack_optimized.cpp          (coming soon)
 │
 ├── problems/
+│   ├── valid_parentheses.cpp
+│   ├── next_greater_element.cpp         (coming soon)
+│   ├── stock_span.cpp                   (coming soon)
+│   └── daily_temperatures.cpp           (coming soon)
 │
 └── notes/
+    ├── stack_theory.md
+    ├── monotonic_stack_pattern.md
+    └── common_mistakes.md
 
 ---
 
@@ -63,4 +76,5 @@ This repository is part of my Data Structures & Algorithms practice journey focu
 
 ### 👨‍💻 Author
 Chirag
+
 
